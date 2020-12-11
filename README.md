@@ -1,0 +1,2 @@
+# Directory
+Temporary save files.
