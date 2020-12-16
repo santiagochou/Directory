@@ -1,0 +1,3 @@
+git push origin HEAD:<remoteBranch>
+zip -r tmp.zip ./temp/
+zip -s 100m tmp.zip --out subtmp.zip
